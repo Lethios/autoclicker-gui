@@ -1,4 +1,4 @@
-# Project Name
+# AutoClicker GUI
 
 Project description
 
@@ -8,8 +8,8 @@ Project description
 1. **Ensure Python is installed (Python 3.x recommended).**
 2. Clone the repository and install the dependencies:
  ```bash
-  git clone https://github.com/Lethios/project.git
-  cd project
+  git clone https://github.com/Lethios/autoclicker-gui.git
+  cd autoclicker-gui
   ```
   ```bash
   pip install -r requirements.txt
