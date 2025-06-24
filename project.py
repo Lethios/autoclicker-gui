@@ -500,7 +500,7 @@ class MainWindow(QMainWindow):
 
 
 def main():
-    app = QApplication(sys.argv)
+    app = QApplication()
     window = MainWindow()
     window.show()
     return app.exec()
